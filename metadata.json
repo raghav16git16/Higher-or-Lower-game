@@ -1,0 +1,7 @@
+{
+  "name": "Guess the Number",
+  "description": "A thrilling 2-player number guessing game featuring pass-and-play secrecy, directional feedback, narrowed range visualization, tournament rounds, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
